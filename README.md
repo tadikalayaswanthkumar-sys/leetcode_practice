@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
+| [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -25,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
