@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
