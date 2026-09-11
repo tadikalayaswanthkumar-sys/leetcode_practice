@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1925-count-square-sum-triples) |
