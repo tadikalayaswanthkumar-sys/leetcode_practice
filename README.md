@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1925-count-square-sum-triples) |
+| [2235-add-two-integers](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2235-add-two-integers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
