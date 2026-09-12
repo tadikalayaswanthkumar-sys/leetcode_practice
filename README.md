@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1925-count-square-sum-triples) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
