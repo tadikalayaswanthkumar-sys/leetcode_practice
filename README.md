@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0058-length-of-last-word) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
