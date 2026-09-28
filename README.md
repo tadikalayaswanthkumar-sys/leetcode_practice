@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0217-contains-duplicate) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0287-find-the-duplicate-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0011-container-with-most-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
