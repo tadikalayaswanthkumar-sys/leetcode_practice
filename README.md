@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0058-length-of-last-word) |
 ## Greedy
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
