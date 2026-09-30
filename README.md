@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 ## Bit Manipulation
 |  |
