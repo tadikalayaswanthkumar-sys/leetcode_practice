@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1920-build-array-from-permutation](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1920-build-array-from-permutation) |
 | [2367-number-of-arithmetic-triplets](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2367-number-of-arithmetic-triplets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
