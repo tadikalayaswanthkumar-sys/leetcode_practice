@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1925-count-square-sum-triples](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1925-count-square-sum-triples) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/1920-build-array-from-permutation) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tadikalayaswanthkumar-sys/leetcode_practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
